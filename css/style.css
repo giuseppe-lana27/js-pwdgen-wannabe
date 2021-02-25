@@ -1,0 +1,14 @@
+/* reset */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.password_block{
+  padding-top: 20px;
+  text-align: center;
+}
+#password{
+  margin-top: 20px;
+}
